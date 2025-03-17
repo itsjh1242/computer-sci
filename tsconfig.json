@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true /* 타입을 강하게! 정의할것인가? */,
+    "target": "ES6" /* 사용할 ECMAScript 버전 */,
+    "module": "CommonJS" /* 모듈을 위한 코드 생성 설정 */,
+    "alwaysStrict": true /* 모든 코드를 strict mode로 분석할 것인가? */,
+    "noImplicitAny": true /* any 타입일 때 에러를 발생시킬 것인가? */,
+    "noImplicitThis": true /* this의 타입을 명시하지 않으면 에러를 발생시킬 것인가 ? */,
+    "sourceMap": true /* 소스맵(*.map) 파일 생성 여부 */,
+    "downlevelIteration": true /* ES3 및 ES5일 때도 지원할 것인가? */
+  }
+}
